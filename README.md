@@ -8,7 +8,7 @@
 
 ## Projects
 - [Python Data Visualization Project](https://github.com/PallaviTummeti/Python-Project)
-- [Python Data Analysis Project]()
+- [Python Data Analysis Project](https://github.com/PallaviTummeti/Python_Data_Analysis_Project)
 
 ## Contact
 - Email: [pallavitummeti@gmail.com](mailto:pallavi.tummeti@gmail.com)
