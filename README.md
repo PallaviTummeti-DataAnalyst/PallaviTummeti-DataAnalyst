@@ -1,5 +1,5 @@
 # Hello World 👋💻🚀
-# Pallvi Tummeti |3+ years experience as Data Analyst|AWS Certified Solutions Architect - Associate|Ex-Accenture| 
+# Pallvi Tummeti |3+ years experienced Data Analyst|AWS Certified Solutions Architect - Associate|Ex-Accenture| 
 
 
 ## About Me
